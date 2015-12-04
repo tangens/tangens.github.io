@@ -5,7 +5,7 @@
   <id>http://www.example.com</id>
   <link href="http://www.example.com"/>
   <link href="http://www.example.com/tag/getting-started/feed.xml" rel="self"/>
-  <updated>2015-12-04T17:32:00+02:00</updated>
+  <updated>2015-12-04T17:36:00+02:00</updated>
   <author>
     <name>Middleman</name>
   </author>
